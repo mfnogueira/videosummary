@@ -1,0 +1,9 @@
+O texto discute a importância de métricas no marketing de aplicativos para otimizar campanhas e melhorar resultados. Raphael, da AppsFire, destaca as principais métricas a serem monitoradas em três categorias: aquisição, engajamento e receita. 
+
+Na aquisição, as métricas-chave são o custo por instalação (CPI) e a taxa de cliques para instalação (CTI), que ajudam a avaliar a eficácia das campanhas publicitárias e a qualidade dos usuários adquiridos. É crucial também analisar o comportamento pós-instalação, uma vez que muitos aplicativos são desinstalados rapidamente.
+
+Para o engajamento, as métricas importantes incluem usuários ativos (diários e mensais), a média de sessões por usuário e a taxa de retenção. Essas métricas ajudam a entender se os usuários estão engajando com o aplicativo e a identificar áreas para melhorias.
+
+Por fim, na categoria de receita, as métricas essenciais são o retorno sobre investimento em anúncios (ROAS), a taxa de conversão de instalação para compra, a receita média por usuário (ARPU) e o valor vitalício do cliente (LTV). Essas métricas são fundamentais para mostrar a rentabilidade das campanhas e guiar decisões estratégicas.
+
+Em resumo, medir e analisar essas métricas pode levar a decisões informadas que melhoram o desempenho do marketing de aplicativos.
